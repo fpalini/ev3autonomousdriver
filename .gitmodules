@@ -1,0 +1,3 @@
+[submodule "ev3autonomousdriverapp"]
+	path = ev3autonomousdriverapp
+	url = https://github.com/fpalini/ev3autonomousdriverapp
