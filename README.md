@@ -1,4 +1,4 @@
-# EV3AutonomousDriver
+# EV3AutonomousDriver (Lego Mindstorm side) 
 
 This is a first experiment with EV3 Lego Mindstorm and OpenCV.
 
